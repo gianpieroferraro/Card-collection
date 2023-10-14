@@ -1,0 +1,19 @@
+[
+    {
+        "nome": "Goku III livello",
+        "immagine" : "https://www.opgt.it/wp-content/uploads/2019/12/fdc9ea541300df0867676cbb5dde80461ee886d3r1-887-597v2_hq.jpg",
+        "cartAppart": "Dragon Ball",
+        "cartoonRole": "Protagonista",
+        "punteggio": 5,
+        "descrizione": "Goku di terzo livello è un guerriero potente, dotato di una resistenza straordinaria e in grado di utilizzare l'energia divina per sconfiggere i nemici."
+        
+    },
+    {
+        "nome": "Peter Griffin",
+        "immagine" : "https://www.looper.com/img/gallery/12-times-when-peter-griffin-proved-hes-not-a-family-guy/l-intro-1667831599.jpg",
+        "cartAppart": "Griffin",
+        "cartoonRole": "Protagonista",
+        "punteggio": 4,
+        "descrizione": "Peter Griffin è un personaggio divertente e imprevedibile, noto per il suo humor sarcastico e i suoi comportamenti eccentrici."
+    }
+]

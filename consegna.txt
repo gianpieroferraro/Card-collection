@@ -1,0 +1,23 @@
+Scrivere una pagina web che gestisca un insieme di oggetti.
+Nello specifico, dovete gestire una serie di figurine dei personaggi 
+di uno o più cartoni animati a vostra scelta.
+
+Per ogni personaggio voglio sapere:
+- nominativo
+- immagine
+- Cartone di appartenza
+- ruolo nel cartone (protagonista, spalla, antagonista ecc)
+- punteggio, da 1 a 5, sulla sua potenza
+- Descrizione del personaggio (un breve riassunto di chi è e cosa fa)
+
+Voglio avere la possibilità di eliminare la singola figurina se necessario.
+
+Voglio che sia anche possibile inserire una nuova figurina nella lista
+
+BONUS
+- Provate per ogni figurina a mostrare solo nominativo e immagine, il resto sarà 
+	visibile solo nel momento in cui schiaccerete un tasto "altri dettagli"
+- Date stili simili per ogni cartone uguale
+- Voglio vedere in alto, appena sotto il titolo, un paragrafo con il riassunto del contenuto
+	della lista di figurine 
+	(Figure Totali:10, Punteggio medio: 4.2, Cartoni Animati: Dragon Ball, Lady Oscar ecc)
